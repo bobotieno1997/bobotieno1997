@@ -4,24 +4,10 @@
 
 <p align="center">
   <img src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png" alt="Azure Synapse Logo" width="100" />
-  <img src="https://seeklogo.com/images/D/databricks-logo-9A6C5A6122-seeklogo.com.png" alt="Databricks Logo" width="100" />
+  <img src="https://seeklogo.com/images/A/azure-databricks-logo-AB590543D3-seeklogo.com.png" alt="Databricks Logo" width="100" />
+  <img src="https://seeklogo.com/images/A/azure-analysis-services-logo-23C57CEFE6-seeklogo.com.png" alt="Analysis Services Logo" width="100" />
+  <img src="https://seeklogo.com/images/A/azure-data-factory-logo-06B3BC2DAD-seeklogo.com.png" alt="Data Factory Logo" width="100" />
+  <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="Power BI logo Logo" width="100" />
+  <img src="https://images.seeklogo.com/logo-png/27/1/python-logo-png_seeklogo-273830.png?v=638687123350000000" alt="PythonLogo" width="100" />
 </p>
-
-
-
-Azure Synapse Analytics (Serverless and Dedicated Pool)
-
-Azure Databricks
-
-Azure Analysis Services
-
-Azure Data Factory
-
-Azure Data Lake Gen 2
-
-Microsoft Power Bi
-
-Microsoft Fabric
-
-Python
 
