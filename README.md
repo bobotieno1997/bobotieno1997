@@ -14,13 +14,6 @@
   <img src="https://seeklogo.com/images/M/MySQL-logo-10761E32A9-seeklogo.com.png" alt="Mysql Logo" width="50" height="50" style="margin: 0 15px;" />
 </p>
 
-**Connect with me:**
 
-<p align="left">
-  <img src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" alt="LinkedIn Logo" width="50" height="50" style="margin-bottom: 10px;" /><be> :Bob Otieno Okech
-</p>
-<p align="left">
-  <img src="https://seeklogo.com/images/G/google-gmail-logo-620D76A63C-seeklogo.com.png" alt="Gmail Logo" width="50" height="50" style="margin-bottom: 10px;" /><be>   :botieno@datainfo.services
-</p>
 
 
