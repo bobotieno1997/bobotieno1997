@@ -8,13 +8,16 @@
   <img src="https://seeklogo.com/images/A/azure-analysis-services-logo-23C57CEFE6-seeklogo.com.png" alt="Analysis Services Logo" width="50" height="50" style="margin: 0 15px;" />
   <img src="https://seeklogo.com/images/A/azure-data-factory-logo-06B3BC2DAD-seeklogo.com.png" alt="Data Factory Logo" width="50" height="50" style="margin: 0 15px;" />
   <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="Power BI Logo" width="50" height="50" style="margin: 0 15px;" />
+  <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="Figma Logo" width="50" height="50" style="margin: 0 15px;" />
   <img src="https://images.seeklogo.com/logo-png/27/1/python-logo-png_seeklogo-273830.png?v=638687123350000000" alt="Python Logo" width="50" height="50" style="margin: 0 15px;" />
+  <img src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" alt="Post Logo" width="50" height="50" style="margin: 0 15px;" />
+  <img src="https://seeklogo.com/images/M/MySQL-logo-10761E32A9-seeklogo.com.png" alt="Mysql Logo" width="50" height="50" style="margin: 0 15px;" />
 </p>
 
 **Connect with me:**
 
 <p align="left">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn Logo" width="50" height="50" style="margin-bottom: 10px;" /><be> :Bob Otieno Okech
+  <img src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" alt="LinkedIn Logo" width="50" height="50" style="margin-bottom: 10px;" /><be> :Bob Otieno Okech
 </p>
 <p align="left">
   <img src="https://seeklogo.com/images/G/google-gmail-logo-620D76A63C-seeklogo.com.png" alt="Gmail Logo" width="50" height="50" style="margin-bottom: 10px;" /><be>   :botieno@datainfo.services
