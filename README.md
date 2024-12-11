@@ -14,12 +14,10 @@
 **Connect with me:**
 
 <p align="left">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn Logo" width="50" height="50" style="margin-bottom: 10px;" /><br>
-  Bob Otieno Okech
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn Logo" width="50" height="50" style="margin-bottom: 10px;" /><be> :Bob Otieno Okech
 </p>
 <p align="left">
-  <img src="https://seeklogo.com/images/G/google-gmail-logo-620D76A63C-seeklogo.com.png" alt="Gmail Logo" width="50" height="50" style="margin-bottom: 10px;" /><br>
-  botieno@datainfo.services
+  <img src="https://seeklogo.com/images/G/google-gmail-logo-620D76A63C-seeklogo.com.png" alt="Gmail Logo" width="50" height="50" style="margin-bottom: 10px;" /><be>   :botieno@datainfo.services
 </p>
 
 
