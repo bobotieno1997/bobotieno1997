@@ -2,8 +2,11 @@
 
 **Tech Stack:**
 
-- **Azure Synapse Analytics** ![Azure Synapse Logo](https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png)
-- **Azure Databricks** ![Databricks Logo](https://seeklogo.com/images/D/databricks-logo-9A6C5A6122-seeklogo.com.png)
+<p align="center">
+  <img src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png" alt="Azure Synapse Logo" width="100" />
+  <img src="https://seeklogo.com/images/D/databricks-logo-9A6C5A6122-seeklogo.com.png" alt="Databricks Logo" width="100" />
+</p>
+
 
 
 Azure Synapse Analytics (Serverless and Dedicated Pool)
