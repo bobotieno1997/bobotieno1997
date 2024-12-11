@@ -11,7 +11,15 @@
   <img src="https://images.seeklogo.com/logo-png/27/1/python-logo-png_seeklogo-273830.png?v=638687123350000000" alt="Python Logo" width="50" height="50" style="margin: 0 15px;" />
 </p>
 
-**Connect with me:
-[![image alt](https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)](https://www.linkedin.com/in/bob-otieno-3b1a211a0/)
-[![image alt](https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)](https://www.linkedin.com/in/bob-otieno-3b1a211a0/)
+**Connect with me:**
+
+<p align="left">
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn Logo" width="50" height="50" style="margin-bottom: 10px;" /><br>
+  Bob Otieno Okech
+</p>
+<p align="left">
+  <img src="https://seeklogo.com/images/G/google-gmail-logo-620D76A63C-seeklogo.com.png" alt="Gmail Logo" width="50" height="50" style="margin-bottom: 10px;" /><br>
+  botieno@datainfo.services
+</p>
+
 
