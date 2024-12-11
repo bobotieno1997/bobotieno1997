@@ -2,7 +2,7 @@
 
 **Tech Stack:**
 
-<p align="center">
+<p align="left">
   <img src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png" alt="Azure Synapse Logo" width="50" height="50" style="margin: 0 15px;" />
   <img src="https://seeklogo.com/images/A/azure-databricks-logo-AB590543D3-seeklogo.com.png" alt="Databricks Logo" width="50" height="50" style="margin: 0 15px;" />
   <img src="https://seeklogo.com/images/A/azure-analysis-services-logo-23C57CEFE6-seeklogo.com.png" alt="Analysis Services Logo" width="50" height="50" style="margin: 0 15px;" />
